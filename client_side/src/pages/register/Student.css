@@ -1,0 +1,104 @@
+.student-reg{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.student-register-heading{
+    margin-top: 10rem;
+    margin-left: 22rem;
+    font-size: 27px;
+    color: #333333;
+    
+}
+.warning-text{
+     margin-top: 2rem;
+     font-size: 16px;
+}
+.star{
+    color: red;
+}
+.applicants-info{
+    display: flex;
+    gap: 1rem;
+}
+.applicants-info input{
+    width: 600px;
+    height: 40px;
+    background-color: #F9F9F9;
+    border: 1px solid rgb(242, 239, 239);
+    padding: 1rem;
+}
+.field-title{
+    font-size: 16px;
+    font-weight: 600;
+    color: #444444;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+.reg-form{
+    margin-left: 22rem;
+    margin-top: 2rem;
+}
+.single-field input{
+    width: 1220px;
+    height: 40px;
+    background-color: #F9F9F9;
+    border: 1px solid rgb(242, 239, 239);
+}
+.gender-sec{
+    margin-left: 0.5rem;
+}
+
+.gender-sec input{
+    
+    margin-right: 0.5rem;
+}
+.gender-sec label{
+    font-size: 16px;
+    font-weight: 600;
+    color: #444444;
+    margin-bottom: 1rem;
+}
+
+.date input{
+    font-size: 16px;
+    font-weight: 600;
+    color: #444444;
+    width: 200px;
+    height: 40px;
+    background-color: #F9F9F9;
+    border: 1px solid rgb(242, 239, 239);
+    margin-bottom: 1rem;
+}
+.img-container{
+    display: flex;
+   justify-content: space-between;
+   margin-right: 30rem;
+}
+
+.img-title{
+    font-size: 16px;
+    font-weight: 600;
+    color: #444444;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+.img-tail{
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    font-size: 16px;
+    color: #444444;
+}
+.age-text{
+    font-size: 15px;
+    color: #444444;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.submit-btn{
+    font-size: 13px;
+    color: #ffffff;
+    background-color: #222222;
+    height: 40px;
+    width: 80px;
+    margin-bottom: 2rem;
+}

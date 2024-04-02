@@ -1,0 +1,53 @@
+.work-title-section{
+    font-family: 'Montserrat', sans-serif ;
+    text-align: center;
+    margin-top: 8rem;
+}
+.work-title{
+    
+    font-size: 34px;
+}
+.light-color{
+    color: #08ADA7;
+}
+.work-title-light{
+    margin-top: 1rem;
+    font-style: italic;
+    font-size: 19px;
+    color: #afafaf;
+}
+.hr-line{
+    width: 5rem;
+    background-color: gray;
+    margin:0 auto;
+    margin-top: 1rem;
+    height: 3px;
+    border: none;
+}
+.work-info-card{
+    font-family: 'Montserrat', sans-serif ;
+    margin-top: 1.5rem;
+    text-align: center;
+}
+.work-card-sec{
+    max-width: 1250px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 0 auto;
+    gap: 2.5rem;
+    margin-bottom: 8rem;
+}
+.work-icon{
+    height: 10vh;
+    width: 10vh;
+}
+.work-card-title{
+    margin-top: 1rem;
+    font-size: 20px;
+}
+.work-card-des{
+    margin-top: 1rem;
+    font-size: 16px;
+    color: #666666;
+    line-height: 27px;
+}

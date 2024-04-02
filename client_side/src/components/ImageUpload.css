@@ -1,0 +1,19 @@
+.img-container{
+    display: flex;
+   justify-content: space-between;
+   margin-right: 30rem;
+}
+
+.img-title{
+    font-size: 16px;
+    font-weight: 600;
+    color: #444444;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+.img-tail{
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    font-size: 16px;
+    color: #444444;
+}
